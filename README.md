@@ -1,2 +1,2 @@
 # futurense-internship
-This is the internship program repository that contains the MoMs, Reference Material, and Hands On Data.
+This repository will contain all the essential documentation and reference materials and hands on related to the internship sessions
